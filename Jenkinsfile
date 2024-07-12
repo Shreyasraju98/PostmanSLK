@@ -11,7 +11,7 @@ pipeline {
                        cd..
                        cd..
                        cd C:\\Jenkins
-                       rmdir temp1'''
+                       rmdir Temp1'''
             }
         }
         stage('BYE') {
